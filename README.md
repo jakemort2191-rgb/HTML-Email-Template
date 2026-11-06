@@ -42,6 +42,6 @@ Opening the file in a browser is useful for a basic preview, but it won't show e
 
 Work in progress. I'll update the template as I practise and learn more about HTML email development.
 
----
+[---](https://youtu.be/jGLE7PLOTcI)
 
 Created as part of my software and web development learning journey.
